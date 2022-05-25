@@ -36,8 +36,8 @@
     "release": "standard-version"
   },
   "devDependencies": {
-    "@swc/core": "^1.2.165",
+    "@swc/core": "^1.2.194",
     "standard-version": "^9.3.2",
-    "tsup": "^5.12.5"
+    "tsup": "^5.12.9"
   }
 }
